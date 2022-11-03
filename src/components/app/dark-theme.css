@@ -1,0 +1,12 @@
+.dark-theme {
+    background-color: #111114;
+    color: #FFFFFF;
+}
+
+.dark-theme .countries {
+    color: #FFFFFF;
+}
+
+.dark-theme .header {
+    background: #1F1F22;
+}
